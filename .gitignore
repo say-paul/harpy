@@ -30,6 +30,7 @@
 *.exe
 *.out
 *.app
+*.jpg
 
 # Ignore Mac system files
 .DS_store
